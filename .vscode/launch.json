@@ -1,0 +1,274 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Mainclass",
+            "request": "launch",
+            "mainClass": "Mainclass",
+            "projectName": "java_7eb32ff6"
+        },
+        {
+            "type": "java",
+            "name": "Launch CreateTriangle",
+            "request": "launch",
+            "mainClass": "CreateTriangle",
+            "projectName": "java_7eb32ff6"
+        },
+        {
+            "type": "java",
+            "name": "Launch NotSecondObj",
+            "request": "launch",
+            "mainClass": "NotSecondObj",
+            "projectName": "java_7eb32ff6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo",
+            "request": "launch",
+            "mainClass": "Demo",
+            "projectName": "java_7eb32ff6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Triangle$CreateTriangle",
+            "request": "launch",
+            "mainClass": "Triangle$CreateTriangle",
+            "projectName": "java_7eb32ff6"
+        },
+        {
+            "type": "java",
+            "name": "Launch CreateBox",
+            "request": "launch",
+            "mainClass": "CreateBox",
+            "projectName": "java_7eb32ff6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Box$CreateBox",
+            "request": "launch",
+            "mainClass": "Box$CreateBox",
+            "projectName": "java_7eb32ff6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Interface",
+            "request": "launch",
+            "mainClass": "java9.Interface",
+            "projectName": "java_7eb32ff6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Displayanimals",
+            "request": "launch",
+            "mainClass": "java9.Displayanimals",
+            "projectName": "java_7eb32ff6"
+        },
+        {
+            "type": "java",
+            "name": "Launch MultipleInterface",
+            "request": "launch",
+            "mainClass": "java9.MultipleInterface",
+            "projectName": "java_7eb32ff6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Interface",
+            "request": "launch",
+            "mainClass": "Interface",
+            "projectName": "java_7eb32ff6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Extexding_enum_from_interface",
+            "request": "launch",
+            "mainClass": "Extexding_enum_from_interface",
+            "projectName": "java_7eb32ff6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demons_enum",
+            "request": "launch",
+            "mainClass": "Demons_enum",
+            "projectName": "java_7eb32ff6"
+        },
+        {
+            "type": "java",
+            "name": "Launch static_inside_Interface",
+            "request": "launch",
+            "mainClass": "static_inside_Interface",
+            "projectName": "java_7eb32ff6"
+        },
+        {
+            "type": "java",
+            "name": "Launch UdneWaale",
+            "request": "launch",
+            "mainClass": "UdneWaale",
+            "projectName": "java_7eb32ff6"
+        },
+        {
+            "type": "java",
+            "name": "Launch MainC",
+            "request": "launch",
+            "mainClass": "MainC",
+            "projectName": "java_7eb32ff6"
+        },
+        {
+            "type": "java",
+            "name": "Launch jdbc1",
+            "request": "launch",
+            "mainClass": "jdbc1",
+            "projectName": "java_7eb32ff6"
+        },
+        {
+            "type": "java",
+            "name": "Launch localDatabase",
+            "request": "launch",
+            "mainClass": "localDatabase",
+            "projectName": "java_7eb32ff6"
+        },
+        {
+            "type": "java",
+            "name": "Launch BillerMain",
+            "request": "launch",
+            "mainClass": "com.example.csv.BillerMain",
+            "projectName": "java_7eb32ff6"
+        },
+        {
+            "type": "java",
+            "name": "Launch updatecsv",
+            "request": "launch",
+            "mainClass": "com.example.csv.updatecsv",
+            "projectName": "java_7eb32ff6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Biller",
+            "request": "launch",
+            "mainClass": "com.example.csv.Biller",
+            "projectName": "java_7eb32ff6"
+        },
+        {
+            "type": "java",
+            "name": "Launch readcsv",
+            "request": "launch",
+            "mainClass": "com.example.csv.readcsv",
+            "projectName": "java_7eb32ff6"
+        },
+        {
+            "type": "java",
+            "name": "Launch createcsv",
+            "request": "launch",
+            "mainClass": "com.example.csv.createcsv",
+            "projectName": "java_7eb32ff6"
+        },
+        {
+            "type": "java",
+            "name": "Launch MysqlCon",
+            "request": "launch",
+            "mainClass": "MysqlCon",
+            "projectName": "java_7eb32ff6"
+        },
+        {
+            "type": "java",
+            "name": "Launch MainArea",
+            "request": "launch",
+            "mainClass": "MainArea",
+            "projectName": "java_7eb32ff6"
+        },
+        {
+            "type": "java",
+            "name": "Launch DataBase",
+            "request": "launch",
+            "mainClass": "DataBase",
+            "projectName": "java_7eb32ff6"
+        },
+        {
+            "type": "java",
+            "name": "Launch JDBCExample",
+            "request": "launch",
+            "mainClass": "JDBCExample",
+            "projectName": "java_7eb32ff6"
+        },
+        {
+            "type": "java",
+            "name": "Launch CSVWriter",
+            "request": "launch",
+            "mainClass": "CSVWriter",
+            "projectName": "java_7eb32ff6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Biller",
+            "request": "launch",
+            "mainClass": "Biller",
+            "projectName": "java_7eb32ff6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Complex",
+            "request": "launch",
+            "mainClass": "Complex",
+            "projectName": "java_7eb32ff6"
+        },
+        {
+            "type": "java",
+            "name": "Launch MainClass",
+            "request": "launch",
+            "mainClass": "MainClass",
+            "projectName": "java_7eb32ff6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Clerk",
+            "request": "launch",
+            "mainClass": "Clerk",
+            "projectName": "java_7eb32ff6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "java_7eb32ff6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Room",
+            "request": "launch",
+            "mainClass": "Room",
+            "projectName": "java_7eb32ff6"
+        },
+        {
+            "type": "java",
+            "name": "Launch B",
+            "request": "launch",
+            "mainClass": "B",
+            "projectName": "java_7eb32ff6"
+        },
+        {
+            "name": "g++.exe - Build and debug active file",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${fileDirname}\\${fileBasenameNoExtension}.exe",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${fileDirname}",
+            "environment": [],
+            "externalConsole": false,
+            "MIMode": "gdb",
+            "miDebuggerPath": "C:\\Program Files (x86)\\mingw-w64\\i686-8.1.0-posix-dwarf-rt_v6-rev0\\mingw32\\bin\\gdb.exe",
+            "setupCommands": [
+                {
+                    "description": "Enable pretty-printing for gdb",
+                    "text": "-enable-pretty-printing",
+                    "ignoreFailures": true
+                }
+            ],
+            "preLaunchTask": "C/C++: g++.exe build active file"
+        }
+    ]
+}
